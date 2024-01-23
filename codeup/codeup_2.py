@@ -1,4 +1,3 @@
-'''
 #11
 f = input()
 f = float(f)
@@ -53,4 +52,4 @@ print(d, m, y, sep = "-")
 a, b = input().split("-")
 print(a, b, sep = '')
 #'' 공백없이 출력
-'''
+
