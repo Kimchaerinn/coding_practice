@@ -29,3 +29,22 @@ java-start/
 # Ignore system and temporary files
 Thumbs.db
 desktop.ini
+
+   .bash_history
+        .gitconfig
+        .lesshst
+        .thumbnails/
+        AppData/
+        Downloads/
+        Favorites/
+        IntelGraphicsProfiles/
+        MNIST/
+        NTUSER.DAT
+        NTUSER.DAT{5390d3c3-4fa5-11ee-9794-b831b590358f}.TM.blf     
+        NTUSER.DAT{5390d3c3-4fa5-11ee-9794-b831b590358f}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{5390d3c3-4fa5-11ee-9794-b831b590358f}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Searches/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
