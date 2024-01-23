@@ -1,0 +1,31 @@
+# Ignore user profile directories on Windows
+Application\ Data/
+Cookies/
+Documents/My\ Music/
+Documents/My\ Pictures/
+Documents/My\ Videos/
+Local\ Settings/
+My\ Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Templates/
+시작\ 메뉴/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Anaconda settings
+.conda/
+.condarc
+.matplotlib/
+anaconda3/
+
+# Ignore Java-related files
+.jdks/
+java-start/
+
+# Ignore system and temporary files
+Thumbs.db
+desktop.ini
